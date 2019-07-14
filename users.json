@@ -1,0 +1,1022 @@
+[
+	{
+		"id": 483287157,
+		"uid": 0,
+		"admin": "true",
+		"balance": 567119714,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 6,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "💸™™™💲",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563118082,
+			"sent": 0
+		}
+	},
+	{
+		"id": 457342535,
+		"uid": 1,
+		"admin": "true",
+		"balance": 1e+231,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "🖤Ksin3dJQ",
+		"work": 0,
+		"business": [
+			{
+				"id": 13,
+				"upgrade": 1,
+				"workers": 1,
+				"moneys": 0
+			},
+			{
+				"id": 12,
+				"upgrade": 1,
+				"workers": 1,
+				"moneys": 0
+			}
+		],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563118087,
+			"sent": 0
+		}
+	},
+	{
+		"id": 475986906,
+		"uid": 2,
+		"admin": false,
+		"balance": 1e+33,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 2000000000000000000,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Андрей",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563118624,
+			"sent": 0
+		}
+	},
+	{
+		"id": 548042190,
+		"uid": 3,
+		"admin": false,
+		"balance": 250000000,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "소녀",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563118688,
+			"sent": 0
+		}
+	},
+	{
+		"id": 198798202,
+		"uid": 4,
+		"admin": "true",
+		"balance": 1000000250502638,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 1000000000,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": true,
+		"rban": true,
+		"pban": true,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Антон",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563118824,
+			"sent": 0
+		}
+	},
+	{
+		"id": 436956130,
+		"uid": 5,
+		"admin": false,
+		"balance": 250000000,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Киба",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563118853,
+			"sent": 0
+		}
+	},
+	{
+		"id": 522788040,
+		"uid": 6,
+		"admin": false,
+		"balance": 250000000,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Бэн",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563119056,
+			"sent": 0
+		}
+	},
+	{
+		"id": 484709375,
+		"uid": 7,
+		"admin": false,
+		"balance": 250000000,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Денис",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563119066,
+			"sent": 0
+		}
+	},
+	{
+		"id": 526240586,
+		"uid": 8,
+		"admin": false,
+		"balance": 250000000,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Eraly",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563119077,
+			"sent": 0
+		}
+	},
+	{
+		"id": 425161334,
+		"uid": 9,
+		"admin": false,
+		"balance": 250000000,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Hitmen",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563119083,
+			"sent": 0
+		}
+	},
+	{
+		"id": 133113945,
+		"uid": 10,
+		"admin": false,
+		"balance": 250000000,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Екатерина",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563119101,
+			"sent": 0
+		}
+	},
+	{
+		"id": 303750189,
+		"uid": 11,
+		"admin": false,
+		"balance": 250000000,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Матвей",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563119272,
+			"sent": 0
+		}
+	},
+	{
+		"id": 490795659,
+		"uid": 12,
+		"admin": false,
+		"balance": 250000000,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Саша",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563119336,
+			"sent": 0
+		}
+	},
+	{
+		"id": 500015041,
+		"uid": 13,
+		"admin": false,
+		"balance": 1.099900000000005e+28,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": true,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Айназ",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563119458,
+			"sent": 0
+		}
+	},
+	{
+		"id": 318343242,
+		"uid": 14,
+		"admin": false,
+		"balance": 250000000,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Марина",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563119712,
+			"sent": 0
+		}
+	},
+	{
+		"id": 174727719,
+		"uid": 15,
+		"admin": false,
+		"balance": 320000250000000,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Наталья",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563119864,
+			"sent": 0
+		}
+	},
+	{
+		"id": 497362638,
+		"uid": 16,
+		"admin": false,
+		"balance": 250000000,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Жангир",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563122596,
+			"sent": 0
+		}
+	},
+	{
+		"id": 435690728,
+		"uid": 17,
+		"admin": false,
+		"balance": 250000000,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Фёдор",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563123232,
+			"sent": 0
+		}
+	},
+	{
+		"id": 541864278,
+		"uid": 18,
+		"admin": false,
+		"balance": 250000000,
+		"bank": 5000,
+		"btc": 0,
+		"farm_btc": 0,
+		"biz": 0,
+		"rating": 0,
+		"regDate": "14.6.2019",
+		"mention": true,
+		"ban": false,
+		"rban": false,
+		"pban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false
+		},
+		"tag": "Дмитрий",
+		"work": 0,
+		"business": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"roulette": -1,
+		"roulette_bet": 0,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"computer": 0,
+			"farm": 0,
+			"farm_count": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"limit": {
+			"timer": 1563129492,
+			"sent": 0
+		}
+	}
+]
